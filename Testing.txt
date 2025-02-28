@@ -1,11 +1,11 @@
 Functional Testing 
 
-2. Regession
+2. Regression - Manual and Selenium Webdriver
 
-3. Smoke
+3. Smoke - Manual
 
-4. Sanity
+4. Sanity - Manual
 
 Non Functional Testing
 
-5. Performance Testing
+5. Performance Testing - JMeter
