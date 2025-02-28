@@ -1,9 +1,11 @@
-Testing
-
-1. Functional 
+Functional Testing 
 
 2. Regession
 
 3. Smoke
 
 4. Sanity
+
+Non Functional Testing
+
+5. Performance Testing
