@@ -9,3 +9,5 @@ Functional Testing
 Non Functional Testing
 
 5. Performance Testing - JMeter
+
+6. Automation Testing
