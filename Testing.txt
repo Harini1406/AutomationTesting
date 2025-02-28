@@ -1,0 +1,9 @@
+Testing
+
+1. Functional 
+
+2. Regession
+
+3. Smoke
+
+4. Sanity
