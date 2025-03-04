@@ -1,2 +1,2 @@
 # AutomationTesting
-In this repository, My automation coeds are available.
+In this repository, My automation codes are available.
